@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LINEA EDITS</title>
+    <link>https://lineaedits.com/</link>
+    <description>Recent content on LINEA EDITS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    
+	<atom:link href="https://lineaedits.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://lineaedits.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineaedits.com/about/</guid>
+      <description> ABOUT  .content { text-align: center; }  Coming soon.
+Founder of ~~LINEA EDITS~~ and mastermind of other experimental music projects. AKA Elliot k, banda randa, Acid bar, Don Macello. --- ## SC INTERFACE Digital sounds from a forgotten plain of reality, where the data left over on broken hard drives ends up. -- </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lineaedits.com/artists/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lineaedits.com/artists/</guid>
+      <description> ARTISTS Coming soon
+ .content { text-align: center; }  Founder of ~~LINEA EDITS~~ and mastermind of other experimental music projects. AKA Elliot k, banda randa, Acid bar, Don Macello. --- # SC INTERFACE digital sounds from the plain of reality where broken hard drives data ends up -- </description>
+    </item>
+    
+  </channel>
+</rss>
