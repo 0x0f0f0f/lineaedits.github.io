@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LINEA RECORDS</title>
@@ -6,19 +6,15 @@
     <description>Recent content on LINEA RECORDS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    
-	<atom:link href="https://linearecords.net/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://linearecords.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://linearecords.net/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://linearecords.net/about/</guid>
-      <description> ABOUT  .content { text-align: center; }  Coming soon.
-Founder of ~~LINEA EDITS~~ and mastermind of other experimental music projects. AKA Elliot k, banda randa, Acid bar, Don Macello. --- ## SC INTERFACE Digital sounds from a forgotten plain of reality, where the data left over on broken hard drives ends up. -- </description>
+      <description>ABOUT Coming soon.
+  </description>
     </item>
     
     <item>
@@ -27,8 +23,8 @@ Founder of ~~LINEA EDITS~~ and mastermind of other experimental music projects. 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://linearecords.net/artists/</guid>
-      <description> ARTISTS Coming soon
- .content { text-align: center; }  Founder of ~~LINEA EDITS~~ and mastermind of other experimental music projects. AKA Elliot k, banda randa, Acid bar, Don Macello. --- # SC INTERFACE digital sounds from the plain of reality where broken hard drives data ends up -- </description>
+      <description>ARTISTS Coming soon
+  </description>
     </item>
     
   </channel>
